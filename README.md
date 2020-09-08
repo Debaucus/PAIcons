@@ -16,5 +16,5 @@ Inside your alarms.json in PokeAlarm use this line.
 Change "icon_url" for "avatar_url" or for whatever else you wish.
 
 # Credit to:
-Original Pokemon Go assets obtained by PokeMiners. - Keep up the good work!
-Images created using https://overbits.herokuapp.com/watermark/ - Thanks for the awesome site!
+- Original Pokemon Go assets obtained by PokeMiners. - Keep up the good work!
+- Images created using https://overbits.herokuapp.com/watermark/ - Thanks for the awesome site!
