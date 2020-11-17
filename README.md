@@ -1,3 +1,11 @@
+# No Longer Updated!
+
+Reason: Discord caches its images for 1 year. This means that any new shiny Pokemon images (changed after the current, non-shiny is loaded) will not work for user display.
+
+I have changed my approach and made a new git for this. See https://github.com/Debaucus/pokealarm for details.
+
+---
+
 # PokeAlarm Shiny Icons
 Icons to be used for PokeAlarm. These icons specifically show which Pokemon are able to be Shiny via an added Watermark displaying a shiny chance upon clicking. Using original Pokemon Go assets as a base.
 
